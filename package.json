@@ -1,0 +1,18 @@
+{
+  "name": "basic_oauth",
+  "version": "1.0.0",
+  "description": "A basic OAuth Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Rajarshi Sengupta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
